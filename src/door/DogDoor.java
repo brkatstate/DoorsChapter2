@@ -21,5 +21,7 @@ public class DogDoor {
 	public boolean isOpen() {
 		return open;
 	}
+	
+	
 
 }
