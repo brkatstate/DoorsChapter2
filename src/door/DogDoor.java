@@ -22,4 +22,5 @@ public class DogDoor {
 		return open;
 	}
 	
+	
 }
